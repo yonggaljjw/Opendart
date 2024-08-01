@@ -1,0 +1,7 @@
+requests
+pandas
+openai
+deep_translator
+dotenv
+streamlit
+pymysql
